@@ -1,4 +1,4 @@
-# GeometricShapeClassification
+# Geometric Shapes Classification
 A Computer Vision project where a CNN learns ti recognize different geometric shapes in simple RGB pictures
 
 ## Dataset
