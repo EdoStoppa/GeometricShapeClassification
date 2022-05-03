@@ -29,4 +29,4 @@ No dropout or batch normalizaion was needed, because in only 12 epochs the netwo
 <div align="left"><div />
   
 ## More info
-More information is written directly into the notebook, so if curious, please give a quick look directly at it.
+More information is written directly into the notebook, so if curious, please give a look at it.
