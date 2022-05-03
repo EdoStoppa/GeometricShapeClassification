@@ -27,6 +27,13 @@ No dropout or batch normalizaion was needed, because in only 12 epochs the netwo
   <img src="https://github.com/EdoStoppa/EdoStoppa/blob/main/imgs/GeometricShapeClassification/accuracy.jpg?raw=true" alt="Accuracy">
 <div />
 <div align="left"><div />
+
+## Hyperparameters
+```
+BATCH_SIZE = 32
+LEARNING_RATE = 0.001
+```
+Then I decided to use the `Cross Entropy Loss` to train my model, and the `Adam` optimizer.
   
 ## More info
 More information is written directly into the notebook, so if curious, please give a look at it.
